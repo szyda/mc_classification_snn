@@ -25,7 +25,7 @@ pip install numpy
 ## How to Run:
 1. Clone the repository.
 2. Install dependencies.
-3. Run the script (python main.py) to see the perceptron in action.
+3. Run the script (python main.py).
 
 ### Note
 This project was made for an Introduction to Artificial Intelligence course at school, showcasing practical application of AI principles in a controlled educational environment.
